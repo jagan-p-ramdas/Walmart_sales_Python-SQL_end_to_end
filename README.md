@@ -66,7 +66,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ## Requirements
 
-- **Python **
+- **Python**
 - **SQL Databases**: MySQL
 - **Python Libraries**:
   - `pandas`, `sqlalchemy`, `mysql-connector-python`,
