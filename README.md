@@ -57,34 +57,22 @@ This project is an end-to-end data analysis solution designed to extract critica
 ### 8. Project Publishing and Documentation
    - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
    - **Project Publishing**: Publish the completed project on GitHub or any other version control platform, including:
-     - The `README.md` file (this document).
-     - Jupyter Notebooks (if applicable).
+     - The `README.md` file.
+     - Jupyter Notebooks.
      - SQL query scripts.
-     - Data files (if possible) or steps to access them.
+     - Data files.
 
 ---
 
 ## Requirements
 
-- **Python 3.8+**
+- **Python **
 - **SQL Databases**: MySQL
 - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`,
+  - `pandas`, `sqlalchemy`, `mysql-connector-python`,
 - **Kaggle (for data downloading)
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   ```
-2. Install Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Set up your Kaggle API, download the data, and follow the steps to load and analyze.
-
----
 
 ## Project Structure
 
