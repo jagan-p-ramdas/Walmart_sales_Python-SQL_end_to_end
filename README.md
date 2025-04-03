@@ -98,14 +98,6 @@ Possible extensions to this project:
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
 
----
-
-## License
-
-This project is licensed under the MIT License. 
-
----
-
 ## Acknowledgments
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
