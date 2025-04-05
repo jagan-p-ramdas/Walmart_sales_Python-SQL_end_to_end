@@ -76,7 +76,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Structure
 
 ```plaintext
-|-- data/                     #            # 
+|-- data/                     #
 ## Results and Insights
 
 This section will include your analysis findings:
