@@ -76,7 +76,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Structure
 
 ```plaintext
-|-- data/                     # Raw data and transformed data              # SQL scripts for analysis and queries
+|-- data/                     #            # SQL scripts for analysis and queries
 ## Results and Insights
 
 This section will include your analysis findings:
