@@ -71,12 +71,6 @@ This project is an end-to-end data analysis solution designed to extract critica
   - `pandas`, `sqlalchemy`, `mysql-connector-python`,
 - **Kaggle (for data downloading)
 
-
-
-## Project Structure
-
-```plaintext
-|-- data/                     #
 ## Results and Insights
 
 This section will include your analysis findings:
