@@ -81,8 +81,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 #
 ```
----
-
 ## Results and Insights
 
 This section will include your analysis findings:
