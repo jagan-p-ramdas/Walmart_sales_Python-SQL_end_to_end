@@ -78,9 +78,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 ```plaintext
 |-- data/                     # Raw data and transformed data
 |-- sql_queries/              # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 #
-```
 ## Results and Insights
 
 This section will include your analysis findings:
